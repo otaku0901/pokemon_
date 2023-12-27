@@ -4,6 +4,8 @@ Title- 7,000 Labeled Pokemon
 Link- https://www.kaggle.com/datasets/lantian773030/pokemonclassification
 
 Notebooks
+
+
 1.pokemon_testing.ipynb 
 This notebook has a basic ml model architecture to run and train the model on 7000 image dataset by dividing it into test, train and validation sets
 Since it takes almost 5-6 hours 
